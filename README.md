@@ -7,7 +7,7 @@
 
 **Most of my** repos are private learning activities, Im slowly cleaning them up for public viewing. Once I know what I'm doing, I'd love to start contributing to FOSS projects.
 
-**Reach me on*** GitHub or at `d.yearnsmith`&zwj;*&lbrack;at&rbrack;*&zwj;`gmail.com`
+**Reach me on** GitHub or at `d.yearnsmith`&zwj;*&lbrack;at&rbrack;*&zwj;`gmail.com`
 
 ## Superfluous information about me:
 - I have a background in Theatre
