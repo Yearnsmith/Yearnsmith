@@ -11,5 +11,5 @@
 
 ## Superfluous information about me:
 - I have a background in Theatre
-- I rely largly on FOSS software for daily drivers.
+- I rely largly on FOSS software.
 - I'm a stickler for the proper use of em dashes, en dashes, and ellipsies (in place of hyphens and periods). I have learned the en and em dash `alt` codes by heart &mdash; `0150` & `0151`, respectively (the unicode blocks are `2015` & `2014`).
