@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**I am currently** a student at [Coder Academy](https://github.com/coder-academy-students), learning MEARN stack.
+**I am recently graduated** a student of [Coder Academy](https://github.com/coder-academy-students).
 
 ## Current portfolio:
 [http://yearnsmith.netlify.app](http://yearnsmith.netlify.app)
@@ -11,5 +11,5 @@
 
 ## Superfluous information about me:
 - I have a background in Theatre
-- I'm getting into FOSS (I get excited for the LibreOffice changelog when there's an update).
+- I rely largly on FOSS software for daily drivers.
 - I'm a stickler for the proper use of em dashes, en dashes, and ellipsies (in place of hyphens and periods). I have learned the en and em dash `alt` codes by heart &mdash; `0150` & `0151`, respectively (the unicode blocks are `2015` & `2014`).
