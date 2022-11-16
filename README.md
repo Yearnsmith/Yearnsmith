@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**I am recently graduated** a student of [Coder Academy](https://github.com/coder-academy-students).
+**I am graduate** of [Coder Academy](https://github.com/coder-academy-students).
 
 ## Current portfolio:
 [http://yearnsmith.netlify.app](http://yearnsmith.netlify.app)
