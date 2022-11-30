@@ -8,7 +8,7 @@ I've recently finished up contracting for TalentVine. Though I've been hacking a
 
 Getting serious in 2020 I joined Coder Academy to upskill beyond HTML/CSS — they taught Ruby, Rails, JavaScript, nodejs, React, Git, and CS fundamentals.
 
-Since then I've leveled up my react & rails, learned some Python, dabbled in Bash scripting* and used a bunch of tools like Jira, Figma, and GitLab.
+Since then I've leveled up my react & rails, learned some Python, dabbled in Bash scripting and used a bunch of tools like Jira, Figma, and GitLab.
 
 ### Loves:
 
